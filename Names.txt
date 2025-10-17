@@ -1,1 +1,1 @@
-"Hobit": { x: 2.0, y: 2.5, z: 2.0, mode: "galaxy", effect: "none" }
+"Hobit": { x: 2.0, y: 2.5, z: 2.0, spin: false, mode: "galaxy", effect: "none" }
